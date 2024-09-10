@@ -37,4 +37,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ## Acknowledgments
 The code in this project is modified from Boulama's code in his motion sensor govee esp32 project.
 https://www.boulama.com/blog/posts/controlling-govee-devices-with-esp32-motion-sensor.html
+
 Boulama K. (https://github.com/boulama)
